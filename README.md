@@ -1,14 +1,11 @@
 # vue搭建后台管理界面模版（PC端）
 ------------------------
 
-<img src="./static/gif.gif" width="100%" height="519px"/>  
+<img src="./static/gif.gif" width="100%" height="519px"/>
 
 
 #### 技术栈
 vue2 + vuex + vue-router + webpack + ES6/7 + axios + elementUI + 阿里图标iconfont
-
-#### 项目预览
-[http://nmgwap.gitee.io/vueproject/#/login](http://nmgwap.gitee.io/vueproject/#/login)
 
 
 #### 说明
@@ -196,14 +193,6 @@ npm test
 #### 项目源码地址：
 ------------------------
 
-码云地址：https://gitee.com/ldhblog/vue-element.git  
-github地址：https://github.com/nmgwap/vue-ManagementPlatform.git  
-
-
-#### 微信公众号
-------------------------  
-
-<img src="/static/wx.jpg"  width = "270" height = "270"/>
-
+github地址：https://github.com/xiaotao000/vue-elementUI-.git
 
 
